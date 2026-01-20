@@ -1,0 +1,90 @@
+UHG Consumer
+& Customer
+Engagement
+Data
+Nov 2025
+Creating an Intelligent Data Backbone for Personalized, Connected Health Engagement
+Why Now?
+The next era of growth for UHG will be defined by how well we understand and engage
+consumers as individuals—not just as members, patients, or customers, but as whole humans
+across care, coverage, and experience journeys.
+However, today’s data environment is fragmented:
+• Consumer insights are siloed across Marketing, Digital, Sales, and Service.
+• Data access is slow, governed inconsistently, and optimized for reporting—not engagement.
+• Teams depend on tech functions for even simple audience queries or personalization logic.
+To unlock precision engagement and operational intelligence, UHG needs a centralized
+Consumer & Client Engagement Data Product— a cross-functional capability that fuses data
+strategy, product thinking, and platform execution to power all consumer & client-facing
+functions.
+© 2024 UnitedHealth Group, Inc. All rights reserved. 2
+Strategic Objectives
+Dimension Objective Outcome
+Data Intelligence Enablement Personalization at Scale Governance & Trust Operational Efficiency Integrate consumer, behavioral, and engagement data into a
+unified, privacy-safe profile
+Equip business teams with self-service access, segmentation
+tools, and APIs Power AI-driven engagement across channels Establish responsible data usage, access governance, and
+quality control Rationalize redundant data pipelines and integrated systems Single, trusted source of truth for all engagement
+decisions
+Reduce tech dependency; faster decision-making
+Higher conversion, retention, and satisfaction
+Maintain HIPAA compliance and consumer trust
+Lower tech cost and improved agility
+© 2024 UnitedHealth Group, Inc. All rights reserved. 3
+The Mandate of the Consumer & Customer Engagement Data Product
+Think of the Consumer Data Office as UHG’s engagement data platform product team — owning the intersection of data, technology, and
+experience enablement.
+Jobs to be Done
+1. Data Integration & Quality
+• Unify consumer, member, provider, and behavioral data across lines of business.
+• Enforce golden-record standards and identity resolution (in conjunction with CDO).
+2. Data Productization
+• Build reusable data products and APIs for segmentation, targeting, and personalization.
+• Create “consumer and customer engagement data as a service” for all engagement teams.
+3. Activation Enablement
+• Serve as the data backbone for Marketing, Digital, Sales, and Service systems (CDP, CRM, call center, etc.).
+• Power predictive and generative AI models for personalized outreach and service prompts.
+4. Governance & Compliance
+• Manage access, retention, and usage policies.
+• Partner with Legal, Privacy, and Chief Data Office to operationalize Responsible AI principles.
+5. Insight & Optimization
+• Drive advanced analytics on engagement patterns, consumer lifetime value, and attribution.
+• Feed continuous optimization loops back into channels, digital engagements, and journeys/campaigns.
+© 2024 UnitedHealth Group, Inc. All rights reserved. 4
+Proposed Org Structure
+Phase 1 (0–6 months) — Foundational Team | Focus: Build the strategy, governance, and MVP data platform.
+Role Focus Area Skill Set
+Sr. Director Consumer Data (UHG) Lead Data Product Manager (UHG) Data Architect / Engineer (UHC, Optum) Data Governance Lead (Partner w/ CDO) Analytics Translator / Insight Lead (UHG) Vision, funding, stakeholder alignment Define and deliver consumer data products Integrate sources; build pipelines Policy and compliance Define use cases and value realization Data strategy, stakeholder leadership, data product
+management
+Product ownership, agile delivery, domain expertise
+Cloud data architecture, identity resolution, APIs
+HIPAA, privacy frameworks, stewardship
+Data storytelling, marketing analytics, engagement metrics
+Phase 2 (6-18 months) — Build & Scale | Focus: Productization and enablement.
+Expanded Role Focus Area Skill Set
+Data Platform Engineers (UHC, Optum) MarTech, SalesTech and Service Tech
+Integrations Leads (UHC, Optum) CDP integrations, APIs, scalability Connect CDP/CRM/Service/adtech ecosystems Snowflake, Databricks, CDP platforms
+Platform integration, vendor management
+AI/ML Data Scientist (UHG) Data Experience Designer (UHG) Predictive segmentation & personalization User enablement & self-service design Machine learning, health analytics
+UX for data products, experience thinking
+Change Management & Training Lead
+(UHG) Adoption across business lines Comms, training, stakeholder engagement
+© 2024 UnitedHealth Group, Inc. All rights reserved. 5
+Path to Value
+Initial Investment
+• Team of 3-5 FTEs.
+• Platform and integration build (~$2–3M in technology enablement) for year 1.
+Value Realization
+Category Benefit Illustrative Value
+Marketing Efficiency Reduce external agency dependency and redundant data ops Personalization Uplift 5–10% increase in engagement-driven revenue Operational Speed 3–4x faster time-to-market for campaigns N/A (productivity)
+Compliance Assurance Reduced risk exposure through governed data usage $40–$60M annualized (conservatively)
+$300–$500M potential uplift
+Avoided cost
+© 2024 UnitedHealth Group, Inc. All rights reserved. 6
+Next Steps
+• Align Julie to strategy
+• Get approval for Phase 1 roles – especially Sr Director leader (target for 2025 hire)
+© 2024 UnitedHealth Group, Inc. All rights reserved. 7
+UnitedHealth Group is a registered trademark of UnitedHealth Group, Inc. in the U.S. and other jurisdictions. All other brand or product
+names are the property of their respective owners. Because we are continuously improving our products and services, UnitedHealth
+Group reserves the right to change specifications without prior notice. UnitedHealth Group is an equal opportunity employer.
+© 2024 UnitedHealth Group, Inc. All rights reserved.
