@@ -1,0 +1,74 @@
+The story starts at the Source Layer, a diverse neighborhood filled with many different systems: 
+SQL Server databases 
+SharePoint sites 
+PostgreSQL 
+Oracle databases 
+API-driven applications 
+Operational tools and file-based systems 
+Each of these systems produces valuable information about our consumers, customers, and interactions. These systems are independent, fragmented, and speak different data languages, and our mission is to bring them all into one unified ecosystem. 
+Brings raw data into Azure. 
+1.1 Azure Event Hubs 
+Handles real‑time / streaming data (events, logs, API feeds). 
+Think: continuous data pipeline. 
+1.2 Azure Data Factory (Batch / CDC) 
+Brings batch data (files, DB extracts). 
+CDC (Change Data Capture) tracks only changed data. 
+Think: scheduled pulls + incremental updates. 
+
+ Description of the UHG Consumer & Customer Engagement (CCE) Data Platform 
+ The UHG Consumer & Customer Engagement (CCE) Data Platform is a comprehensive, enterprise‑grade data ecosystem designed to unify ingestion, processing, governance, analytics, and activation of consumer and customer engagement data across UnitedHealth Group. The platform enables scalable, secure, and governed data operations that support advanced analytics, AI/ML workloads, and downstream business functions including Marketing, Digital, Sales, and Service. 
+ 
+ 
+1. Source Layer 
+The platform integrates data from diverse enterprise systems such as SQL databases, SharePoint, PeopleSoft, Oracle, and manually curated inputs. This heterogeneous data is securely ingested from operational sources into the CCE environment using standardized ingestion patterns. 
+ 
+2. Ingestion Layer 
+The ingestion layer operationalizes data onboarding through: 
+Azure Event Hubs for real‑time and event‑driven ingestion 
+Azure Data Factory (Batch + CDC) for scheduled, incremental, and bulk data movement across systems 
+Automated pipelines that standardize raw data capture and ensure reliable delivery downstream 
+This foundation ensures that structured and semi‑structured data enters the platform in a controlled and auditable manner. 
+ 
+3. Processing & AI Layer 
+This is the core analytical engine of the CCE platform, supporting both data engineering and data science workloads. 
+Key components include: 
+Data Quality & Validation frameworks to enforce accuracy, completeness, and consistency 
+Azure Databricks (CCE Computing) for scalable processing, ML workflows, and SQL analytics 
+Unity Catalog for centralized governance, lineage, privileges, and metadata management 
+Workflows/Jobs to operationalize ELT pipelines and advanced analytical workloads 
+Together, these components enable high‑performance data transformation, model development, and operational AI. 
+ 
+4. Storage & Medallion Architecture 
+The platform follows a Medallion (Bronze–Silver–Gold) architecture within the CCE Delta Lake, enabling progressive refinement of data: 
+Bronze – Raw, ingested data 
+Silver – Cleaned, validated, and enriched datasets 
+Gold – Curated business-ready data products optimized for analytics and consumption 
+This layered approach ensures quality, consistency, and reusability across functional teams. 
+ 
+5. Product/Data Mart Layer 
+The curated Gold datasets feed dedicated data marts that serve key business domains: 
+Marketing 
+Digital 
+Sales 
+Service 
+These marts provide domain‑aligned, analytics‑ready datasets used for reporting, segmentation, personalization, performance tracking, and operational decision-making. 
+ 
+6. AI Concierge / Serving Layer 
+The AI Concierge layer orchestrates data activation and enterprise consumption through: 
+Power BI dashboards 
+Catalog Sharing for internal and external partners 
+Self‑Service capabilities enabling business users to discover, explore, and consume governed datasets 
+Workspace Sharing to collaborate with analytics teams and data scientists 
+This ensures broad accessibility while maintaining strict governance and compliance controls. 
+ 
+7. Governance & Security Layer 
+A comprehensive governance and security foundation spans all platform components, including: 
+Activity Logs & Diagnostic Logs for auditing 
+Azure Active Directory for identity and access management 
+Microsoft Defender & Security Center for threat protection 
+Cost Management Dashboards for workload optimization 
+ML/AI Alerts for monitoring data quality, drift, and model health 
+This layer ensures compliance with enterprise and regulatory requirements while safeguarding sensitive consumer data. 
+ 
+Summary 
+Overall, the UHG CCE Data Platform delivers a robust, governed, and scalable foundation for powering consumer and customer engagement analytics. By combining modern ingestion, lakehouse architecture, centralized governance, and AI‑driven insights, the platform enables faster decision‑making, data democratization, and improved customer experiences across the organization. 
